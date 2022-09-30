@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+label{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    background-color: white;
+    color: black;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: dashed 3px gray;
+}
+button{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
